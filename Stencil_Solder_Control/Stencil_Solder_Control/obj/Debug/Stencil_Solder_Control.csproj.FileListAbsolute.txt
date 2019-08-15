@@ -1,0 +1,55 @@
+c:\users\phongvu\documents\visual studio 2015\Projects\Stencil_Solder_Control\Stencil_Solder_Control\bin\Debug\Stencil_Solder_Control.exe.config
+c:\users\phongvu\documents\visual studio 2015\Projects\Stencil_Solder_Control\Stencil_Solder_Control\bin\Debug\Stencil_Solder_Control.exe
+c:\users\phongvu\documents\visual studio 2015\Projects\Stencil_Solder_Control\Stencil_Solder_Control\bin\Debug\Stencil_Solder_Control.pdb
+c:\users\phongvu\documents\visual studio 2015\Projects\Stencil_Solder_Control\Stencil_Solder_Control\bin\Debug\MySql.Data.dll
+c:\users\phongvu\documents\visual studio 2015\Projects\Stencil_Solder_Control\Stencil_Solder_Control\bin\Debug\Newtonsoft.Json.dll
+c:\users\phongvu\documents\visual studio 2015\Projects\Stencil_Solder_Control\Stencil_Solder_Control\bin\Debug\Newtonsoft.Json.xml
+c:\users\phongvu\documents\visual studio 2015\Projects\Stencil_Solder_Control\Stencil_Solder_Control\obj\Debug\Stencil_Solder_Control.Form1.resources
+c:\users\phongvu\documents\visual studio 2015\Projects\Stencil_Solder_Control\Stencil_Solder_Control\obj\Debug\Stencil_Solder_Control.Properties.Resources.resources
+c:\users\phongvu\documents\visual studio 2015\Projects\Stencil_Solder_Control\Stencil_Solder_Control\obj\Debug\Stencil_Solder_Control.csproj.GenerateResource.Cache
+c:\users\phongvu\documents\visual studio 2015\Projects\Stencil_Solder_Control\Stencil_Solder_Control\obj\Debug\Stencil_Solder_Control.exe
+c:\users\phongvu\documents\visual studio 2015\Projects\Stencil_Solder_Control\Stencil_Solder_Control\obj\Debug\Stencil_Solder_Control.pdb
+c:\users\phongvu\documents\visual studio 2015\Projects\Stencil_Solder_Control\Stencil_Solder_Control\bin\Debug\NtpDateTime.dll
+c:\users\phongvu\documents\visual studio 2015\Projects\Stencil_Solder_Control\Stencil_Solder_Control\bin\Debug\NtpDateTime.pdb
+c:\users\phongvu\documents\visual studio 2015\Projects\Stencil_Solder_Control\Stencil_Solder_Control\obj\Debug\Stencil_Solder_Control.csprojResolveAssemblyReference.cache
+F:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\bin\Debug\Stencil_Solder_Control.exe.config
+F:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\obj\Debug\Stencil_Solder_Control.exe
+F:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\obj\Debug\Stencil_Solder_Control.pdb
+F:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\bin\Debug\Stencil_Solder_Control.exe
+F:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\bin\Debug\Stencil_Solder_Control.pdb
+F:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\bin\Debug\MySql.Data.dll
+F:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\bin\Debug\Newtonsoft.Json.dll
+F:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\bin\Debug\NtpDateTime.dll
+F:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\bin\Debug\Newtonsoft.Json.xml
+F:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\bin\Debug\NtpDateTime.pdb
+F:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\obj\Debug\Stencil_Solder_Control.Form1.resources
+F:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\obj\Debug\Stencil_Solder_Control.Properties.Resources.resources
+F:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\obj\Debug\Stencil_Solder_Control.csproj.GenerateResource.Cache
+F:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\obj\Debug\Stencil_Solder_Control.csproj.ResolveComReference.cache
+F:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\obj\Debug\Stencil_Solder_Control.QC.resources
+F:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\bin\Debug\Excel.dll
+F:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\obj\Debug\Stencil_Solder_Control.Form2.resources
+F:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\obj\Debug\Stencil_Solder_Control.ChangPass.resources
+F:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\obj\Debug\Stencil_Solder_Control.Setting.resources
+F:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\obj\Debug\Stencil_Solder_Control.csprojResolveAssemblyReference.cache
+E:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\obj\Debug\Stencil_Solder_Control.csproj.ResolveComReference.cache
+E:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\obj\Debug\Stencil_Solder_Control.ChangPass.resources
+E:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\obj\Debug\Stencil_Solder_Control.Form1.resources
+E:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\obj\Debug\Stencil_Solder_Control.Form2.resources
+E:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\obj\Debug\Stencil_Solder_Control.Properties.Resources.resources
+E:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\obj\Debug\Stencil_Solder_Control.QC.resources
+E:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\obj\Debug\Stencil_Solder_Control.Setting.resources
+E:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\obj\Debug\Stencil_Solder_Control.csproj.GenerateResource.Cache
+E:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\bin\Debug\Stencil_Solder_Control.exe.config
+E:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\bin\Debug\Stencil_Solder_Control.exe
+E:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\bin\Debug\Stencil_Solder_Control.pdb
+E:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\bin\Debug\Excel.dll
+E:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\bin\Debug\MySql.Data.dll
+E:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\bin\Debug\NtpDateTime.dll
+E:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\bin\Debug\NtpDateTime.pdb
+E:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\obj\Debug\Stencil_Solder_Control.exe
+E:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\obj\Debug\Stencil_Solder_Control.pdb
+E:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\obj\Debug\Stencil_Solder_Control.addItem.resources
+E:\Projects\Stencil_Solder_Control\Stencil_Solder_Control\obj\Debug\Stencil_Solder_Control.csprojResolveAssemblyReference.cache
