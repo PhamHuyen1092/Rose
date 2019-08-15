@@ -1,0 +1,9 @@
+{  
+"ServerIP":"172.16.10.3",
+"ServerPort":"3306",
+"TimeThaw":"7200",
+"TimeWashSpencil":"14400",
+"TimeSpin":"240",
+"pretext":"F",
+"MaxTimeDelayWashingStencil":"600"
+}
